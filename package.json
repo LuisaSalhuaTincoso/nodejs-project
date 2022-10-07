@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "first package.json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-special": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisaSalhuaTincoso/nodejs-project.git"
+  },
+  "author": "Luisa Salhua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisaSalhuaTincoso/nodejs-project/issues"
+  },
+  "homepage": "https://github.com/LuisaSalhuaTincoso/nodejs-project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
